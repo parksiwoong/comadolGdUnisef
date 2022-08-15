@@ -1,4 +1,4 @@
-package com.comadol.comadolgdunisef.a.a01;
+package com.post.comadolgdunisef.comadol.a.a01;
 
 
 public interface UserService {

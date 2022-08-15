@@ -1,4 +1,4 @@
-package com.comadol.comadolgdunisef.a;
+package com.post.comadolgdunisef.comadol.a;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
